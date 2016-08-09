@@ -1,3 +1,13 @@
+#Observações de uso:
+ - utilizar JDK 8 para compilar e inicializar a aplicação.
+ - foi utilizado a IDE IntelliJ
+ - Projeto estruturado através do Maven
+ - Devido ao tempo de somente 24 horas não documentei o quanto gostaria, mas as nomeclaturas
+ dos métodos e variáveis estão bem intuitivas.
+ - Para o bom funcionamento da aplicação, por favor criar os seguintes diretórios, conforme especificação técnica:
+   - %HOMEPATH%/data/in
+   - %HOMEPATH%/data/out
+
 # selecao-ilegra
 Data Analysis System in Bach
 
